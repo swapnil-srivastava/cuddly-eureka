@@ -27,7 +27,8 @@
 				"vscjava.vscode-java-pack",
 				"vmware.vscode-boot-dev-pack",
 				"ms-vscode.vscode-node-azure-pack",
-				"vscjava.vscode-azurespringcloud"
+				"vscjava.vscode-azurespringcloud",
+				"github.vscode-github-actions"
 			]
 		}
 	}
