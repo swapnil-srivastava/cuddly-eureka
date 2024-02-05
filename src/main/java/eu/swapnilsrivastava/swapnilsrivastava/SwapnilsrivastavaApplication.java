@@ -8,6 +8,7 @@ public class SwapnilsrivastavaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SwapnilsrivastavaApplication.class, args);
+		System.out.println("hello world spring boot");
 	}
 
 }
